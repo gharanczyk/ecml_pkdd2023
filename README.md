@@ -1,4 +1,4 @@
-# ecmpl_pkdd2023
+# ecml_pkdd2023
 
 
 solution to “Human Activity Segmentation Challenge” ECML/PKDD'23 [1] where the task was to predict the offsets of activity transitions for multivariate time series
